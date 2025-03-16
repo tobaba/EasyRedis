@@ -1,5 +1,5 @@
 # EasyRedis
-
+test...
 ## 一、使用默认 IOC 注入
 
 ### 1. 方式一  系统 IOC 注入：Startup 类 ConfigureServices 方法中添加以下代码
